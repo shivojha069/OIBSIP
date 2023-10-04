@@ -1,0 +1,213 @@
+* {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oxanium', cursive;
+}
+
+.logo {
+    width: 5%;
+    margin-left: 10px;
+    margin-right: 100px;
+}
+
+
+.ul {
+    display: inline-flex;
+
+}
+
+ul {
+    margin-inline-start: 70%;
+
+}
+
+li {
+    padding: 10px;
+    list-style-type: none;
+
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.txt_portfolio {
+    padding: 30px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oxanium', cursive;
+
+    letter-spacing: 9px;
+}
+
+.txt_portfolio h2 {
+    margin-left: 35%;
+}
+
+.txt_portfolio h6 {
+    margin-left: 43.5%;
+    font-size: 70%;
+    margin-top: 15vh;
+}
+
+.propic {
+    border-radius: 50%;
+    margin-top: 15%;
+    width: 25vw;
+    margin-left: 10%;
+    image-resolution: 200%;
+    opacity: 0.8;
+
+}
+
+.about1 {
+    margin-top: 23%;
+}
+
+.about1 {
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Oxanium', cursive;
+}
+
+a:hover {
+    color: rgb(203, 0, 0);
+}
+
+.htmcss {
+    width: 5vw;
+}
+
+.skills h3 {
+    margin-top: 4vw;
+}
+
+.htmcss {
+    margin-right: 2%;
+    display: inline-flex;
+    margin-left: 9vw;
+}
+
+.content1 {
+    margin-top: 1vw;
+    display: inline-flex;
+    align-items: center;
+}
+
+.content1 p {
+    width: 70vw;
+    text-align: left;
+
+}
+
+.cardss {
+    width: 85vw;
+    margin-left: 6.5vw;
+    margin-top: 2vw;
+    font-size: 90%;
+}
+
+.projects h3 {
+    margin-left: 47vw;
+    padding-top: 5%;
+}
+
+.internship h3 {
+    margin-left: 46vw;
+    padding-top: 5%;
+    padding-bottom: 2vw;
+}
+
+.pinfo {
+    margin-left: 37vw;
+    display: inline-flex;
+    padding: 10px;
+}
+
+.oasis {
+    width: 5vw;
+    border-radius: 50vw;
+}
+
+.intern-certificate {
+    width: 25vw;
+}
+
+.moreinfo h3 {
+    margin-left: 43vw;
+    padding-top: 6vh;
+    padding-bottom: 2vh;
+}
+
+.info1 img {
+
+    width: 14vw;
+    margin-left: -22vw;
+    padding: 20px;
+}
+
+.info2 img {
+    width: 10vw;
+    margin-left: -32vw;
+
+}
+
+.infoall ul {
+    display: inline-flex;
+
+    align-items: center;
+}
+
+
+
+.infoall h6 {
+    margin-left: 45.5vw;
+
+}
+
+.infoall p {
+    margin-left: 46.5vw;
+    letter-spacing: 4px;
+}
+.QRtext{
+    display: inline-flex;
+}
+.QRtext ,.LI, .HR{
+    padding: 10px;
+    padding-left: 6vw;
+    padding-right: 6vw;
+
+}
+.HR{
+    margin-left: .7vw;
+}
+.LI{
+    margin-left: 27vw;
+}
+.QR{
+    display: inline-flex;
+    
+}
+.QR img{
+width: 18vw;
+padding: 1vw;
+
+}
+.LIimg{
+    margin-left: 32vw;
+}
+.footer{
+    text-align: center;
+    margin-right: 40vw;
+    
+}
+.footer h3{
+   
+    font-size: .8vw;
+    margin-bottom: 30vh;
+}
+
+
